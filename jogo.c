@@ -204,7 +204,7 @@ int main() {
     srand(time(NULL));
 
     do {
-        printf("\n====== TITULO DO JOGO ======\n");
+        printf("\n======= TITULO DO JOGO =======\n");
         printf("1: Pergunta e Resposta\n");
         printf("2: Cobra na Caixa\n");
         printf("3: Gousmas War\n");
