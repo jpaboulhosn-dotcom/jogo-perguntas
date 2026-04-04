@@ -123,7 +123,7 @@ void atacar(int a[], int d[]) {
     d[y] += a[x];
 
     if (d[y] > 5) {
-        printf("💥 Desintegrou!\n");
+        printf(" Desintegrou!\n");
         d[y] = 0;
     }
 }
